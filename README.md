@@ -10,7 +10,7 @@ code repository for vision-based autonomous tracking and platooning
 
 For vision, Intel Realsense d435 camera is used
 Also contains,
-1. Path planning using Feedback linearization
+1. Path planning using Feedback Linearization
 2. Obstacle avoidance algorithm using LiDAR and camera
 
 PushButtonPlot refers to:
